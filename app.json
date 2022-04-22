@@ -1,6 +1,6 @@
 ﻿{
-    "name": "xray3",
-    "description": "xray websocket proxy on heroku",
+    "name": "MADDFE",
+    "description": "MADDFE",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
